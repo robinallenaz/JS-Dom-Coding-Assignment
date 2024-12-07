@@ -1,0 +1,13 @@
+{
+  "name": "js-dom-coding-assignment",
+  "version": "1.0.0",
+  "description": "A single page website using HTML, Bootstrap, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
